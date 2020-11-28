@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Task categories -->
+    <string-array name="categories">
+        <item>Other</item>
+        <item>Home</item>
+        <item>Work</item>
+        <item>Leisure</item>
+        <item>Family</item>
+    </string-array>
+</resources>
